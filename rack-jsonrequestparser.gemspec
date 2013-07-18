@@ -8,6 +8,7 @@ Gem::Specification.new do |s|
   s.authors     = ['Michael']
   s.email       = ['mmaccoffe@gmail.com']
   s.homepage    = 'http://github.com/mediaslave24/rack-jsonrequestparser'
+  s.summary     = "This gem provides the middleware for parsing json requests."
 
   # Load Paths...
   s.files         = `git ls-files`.split("\n")
